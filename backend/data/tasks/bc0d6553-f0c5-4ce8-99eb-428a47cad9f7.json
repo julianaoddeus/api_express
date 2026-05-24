@@ -1,0 +1,10 @@
+{
+  "id": "bc0d6553-f0c5-4ce8-99eb-428a47cad9f7",
+  "title": "criar crud",
+  "description": "executar tarefa",
+  "priority": "média",
+  "isCompleted": false,
+  "createdAt": "2026-05-24T20:53:01.538Z",
+  "updatedAt": "2026-05-24T20:53:01.538Z",
+  "assignee": "Teste para remover"
+}
